@@ -1,8 +1,17 @@
 # Object files
 *.o
+*.d
+*.crf
+*.lst
+*.__i
+*._i
+*._ia
+*.tra
+*.htm
+*.lnp
 
 # Libraries
-*.lib
+#*.lib
 *.a
 
 # Shared objects (inc. Windows DLLs)
@@ -15,3 +24,5 @@
 *.exe
 *.out
 *.app
+*.elf
+*.hex
